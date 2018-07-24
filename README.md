@@ -12,14 +12,14 @@ Directive will render images based on different resolution
  *     isInline: will put the image and inline
  *     classes: each rendition class will be added
  *     fallback: desktop image is considered
- **/
+ 
 
 ### Prerequisites
 
 Install AngularCli
 
 ```
-Give examples
+Examples
 ```
 Using as a background image- [inline property will be true]
 <div img-renditions='{"mobile":"{{bannerImgMob}}","tab":"{{bannerImg}}","desktop":"{{bannerImg}}","isInline":true}'>
@@ -42,7 +42,7 @@ img-renditions='{"mobile":"{{bannerImgMob}}","tab":"{{bannerImg}}","desktop":"{{
  
 ## Authors
 
-* **Farooq Mir** - *Initial work* - [PurpleBooth](https://github.com/farooqmir)
+* **Farooq Mir** - *Initial work* - [farooqmir](https://github.com/farooqmir)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
