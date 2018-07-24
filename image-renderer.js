@@ -1,4 +1,5 @@
-/**
+/**   
+ * Author: Farooq Mir
  * Image rendition directive
  * Usage: '{"mobile":"{{imgUrlMob}}","tab":"{{imgUrlTab}}","desktop":"{{imgUrl}}","isInline":true}'
  *     isInline: will put the image and inline
